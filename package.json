@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "dev":"lite-server",
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +22,10 @@
   "homepage": "https://github.com/mvazquezdev/gottadigital#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
