@@ -1,0 +1,18 @@
+.jumbotron{
+    background-color:rgb(95, 95, 184);
+    color: rgb(247, 183, 7);
+    padding: 80px 20px 40px 20px;
+}
+
+
+footer{
+    padding: 70px 10px 0 10px;
+    background-color:#fff;
+    margin-bottom: 0px;
+    color: darkgoldenrod;
+}
+
+.column-icon{
+    padding-right: 10px;
+    color: rgb(247, 183, 7);
+}
