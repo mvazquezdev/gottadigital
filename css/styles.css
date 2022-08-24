@@ -1,0 +1,14 @@
+.jumbotron{
+    background-color:rgb(95, 95, 184);
+    color: burlywood;
+    padding: 80px 20px 40px 20px;
+}
+
+
+footer{
+    padding: 10px 10px 0 10px;
+    background-color:rgb(239, 239, 245);
+    margin-bottom: 0px;
+    color: darkgoldenrod;
+}
+
