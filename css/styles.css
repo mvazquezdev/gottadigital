@@ -1,14 +1,32 @@
 .jumbotron{
     background-color:rgb(95, 95, 184);
-    color: burlywood;
+    color: rgb(247, 183, 7);
     padding: 80px 20px 40px 20px;
 }
 
 
 footer{
-    padding: 10px 10px 0 10px;
-    background-color:rgb(239, 239, 245);
+    padding: 70px 10px 0 10px;
+    background-color:#fff;
     margin-bottom: 0px;
     color: darkgoldenrod;
 }
 
+.column-icon{
+    padding-right: 10px;
+    color: rgb(247, 183, 7);
+}
+
+#informacion{
+    height: 300px;
+    margin: 2px;
+    color: rgb(21, 99, 214);
+    font-size: 1.4em;
+    padding: 20px 10px 0 10px;
+}
+
+#ventajas{
+    color: darkgoldenrod;
+    font-size: .8em;
+    font-weight: bold;
+}
